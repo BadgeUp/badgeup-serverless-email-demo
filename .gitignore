@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+npm-debug.log
+bower_components
+.sass-cache
+.awspublish*
+config.json
+
+# we build this for deployment
+# it should not be checked in
+lambda.zip

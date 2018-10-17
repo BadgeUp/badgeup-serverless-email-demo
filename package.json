@@ -1,0 +1,16 @@
+{
+  "name": "badgeup-webhook-sendgrid-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lambda function that listens for BadgeUp webhooks and sends email.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BadgeUp <support@badgeup.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "6.3.1",
+    "es6-template-strings": "2.0.1"
+  }
+}
