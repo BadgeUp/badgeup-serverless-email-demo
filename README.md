@@ -1,7 +1,7 @@
 # BadgeUp Achievement Emails Demo
 > Use [AWS Lambda](https://aws.amazon.com/lambda/), [SendGrid](https://sendgrid.com/) and [BageUp](https://www.badgeup.io/) Webhooks to send earned achievement emails.
 
-Please see the BadgeUp [Webhook documentation](https://docs.badgeup.io/platform/advanced/webhooks/) for more information on setting up webhooks and the JSON payload.
+Please read our [article on Medium](https://blog.badgeup.io/serverless-user-engagement-with-aws-lambda-sendgrid-badgeup-and-node-js-53cdc4fa1ddd) and see the BadgeUp [Webhook documentation](https://docs.badgeup.io/platform/advanced/webhooks/) for more information on setting up webhooks and the JSON payload.
 
 ## Email Template
 The email template in the `email-template` sub-directory was built with [Foundation for Emails](https://foundation.zurb.com/emails.html).
